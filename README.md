@@ -13,7 +13,7 @@ This repository documents my growth, experiments, and research as I work toward 
 
 This is a long-term mission fueled by passion, curiosity, and a vision to help create the space internet that will serve generations to come.
 
-🌐 Visit the live site: [https://routingcosmos.github.io](https://routingcosmos.github.io)
+Visit the live site: [https://routingcosmos.github.io](https://routingcosmos.github.io)
 
 ---
 
