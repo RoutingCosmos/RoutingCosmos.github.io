@@ -1,34 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Blog - RoutingCosmos</title>
-</head>
-<body>
-  <header>
-    <h1><a href="/">RoutingCosmos</a></h1>
-  </header>
+---
+layout: page
+title: Blog Posts
+permalink: /blog/
+---
 
-  <main>
-    <h2>Blog</h2>
-    <p>Welcome to the blog section of RoutingCosmos!</p>
+# Blog Posts
 
-    <p>This space is where I document my journey to becoming a Space Network Engineer. Here you'll find reflections, technical insights, milestones, and thoughts on the evolving field of networking—especially as it expands beyond Earth.</p>
-
-    <h3>What You'll Find Here</h3>
-    <ul>
-      <li>Posts on my learning process and technical challenges</li>
-      <li>Explorations of advanced networking topics</li>
-      <li>Research and commentary on the development of space-based networks</li>
-      <li>Occasional tutorials, ideas, and inspiration</li>
-    </ul>
-    <ul>
+<ul>
   {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <br>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    </li>
   {% endfor %}
 </ul>
-
-    <p>Check back regularly for new posts and feel free to explore the rest of the site for labs, configs, research, and notes.</p>
-  </main>
-</body>
-</html>
