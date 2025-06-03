@@ -1,0 +1,21 @@
+Project Title: Network Segmentation and Routing Lab: VLANs and Inter-VLAN Communication
+
+Project Number: 1
+
+Role: Network Engineering
+
+Date Started/Completed: June 2025
+
+Project Level: Beginner
+
+Tools & Technologies: macOS and Cisco Packet Tracer
+
+Project Description: This project involved designing and configuring a small enterprise network using Cisco Packet Tracer. Multiple VLANs were created to logically segment network traffic by department (e.g., HR and IT), enhancing security and traffic management. Inter-VLAN routing was implemented using a Layer 3 switch, allowing communication between VLANs via virtual interfaces. The network was manually configured with IP addressing, and successful inter-VLAN connectivity was verified using ping tests and troubleshooting commands. This project demonstrates foundational skills in VLAN configuration, Layer 3 switching, and basic Cisco CLI commands.
+
+Skills Developed: Through this project, I developed foundational networking skills by designing and configuring a segmented network using VLANs and inter-VLAN routing in Cisco Packet Tracer. I gained hands-on experience with Cisco IOS command-line interface, including creating VLANs, assigning switchports, and configuring virtual interfaces on a Layer 3 switch to enable communication between VLANs. This project strengthened my understanding of Layer 2 and Layer 3 network functions, manual IP addressing, and subnet planning. I also enhanced my troubleshooting skills by verifying connectivity and resolving configuration issues using tools like ping, ipconfig, and show commands. Additionally, I improved my ability to document and explain technical implementations clearly and professionally.
+
+Challenges & Solutions: During the project, one initial challenge was determining the appropriate switch model in Cisco Packet Tracer to support both VLAN configuration and inter-VLAN routing. After researching, I identified that the Cisco 3560 multilayer switch is suitable because it supports Layer 3 functionalities, including configuring VLAN interfaces (SVIs) and enabling IP routing. Additionally, I deepened my understanding of switch interfaces, specifically how access ports are assigned to VLANs, and how Switched Virtual Interfaces (SVIs) on a Layer 3 switch enable inter-VLAN routing. Configuring these correctly ensured devices in different VLANs could communicate securely and efficiently.
+
+Outcome & Results: The project successfully demonstrated the creation and segmentation of a network using VLANs to isolate departmental traffic, combined with the implementation of inter-VLAN routing on a Layer 3 switch. This configuration enabled efficient and secure communication between different VLANs. Functionality was verified through comprehensive testing, including pinging across VLANs to confirm connectivity. The project also provided valuable hands-on experience with Cisco IOS commands, VLAN concepts, and Layer 3 switching, while honing troubleshooting skills through real-time configuration and verification.
+
+Resume Updated: Yes
