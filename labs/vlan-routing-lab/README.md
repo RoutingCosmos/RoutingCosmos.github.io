@@ -19,5 +19,5 @@ This project demonstrates practical skills in VLAN configuration, Layer 3 switch
 
 ## Files
 - [Project Notes](project-notes.txt)
-Configuration and testing screenshots: See included images
+- Configuration and testing screenshots: See included images
 - Validation screenshots: See included `.png` files
