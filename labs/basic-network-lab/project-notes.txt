@@ -1,0 +1,21 @@
+Project Title: Multi-Subnet LAN/WAN Topology with Static Routing and IP Addressing (Cisco Packet Tracer) 
+
+Project Number: 1 
+
+Role: Network Administrator 
+
+Date Started/Completed: June 2025 
+
+Project Level: Beginner 
+
+Tools & Technologies: macOS and Cisco Packet Tracer 
+
+Project Description: Designed and implemented a multi-subnet LAN/WAN network topology using Cisco Packet Tracer. Configured routers 
+and switches to enable inter-network communication via static routing. Assigned IP addresses using proper subnetting techniques and established connectivity between multiple hosts across different network segments. Validated network functionality with end-to-end ping testing and basic troubleshooting. The project demonstrates core skills in routing, switching, IP addressing, and network topology design. 
+
+Skills Developed: Developed core network administration skills through the design and deployment of a multi-subnet LAN/WAN network using Cisco Packet Tracer. Gained hands-on experience in IP addressing and subnetting, static routing, switch and router configuration, and network connectivity testing. Strengthened troubleshooting skills using CLI tools and validated network functionality through simulation. Demonstrated foundational knowledge of network design, Layer 2/3 device setup, and end-to-end communication principles. 
+
+Challenges & Solutions: The project was straightforward overall, with few significant challenges. The main difficulty encountered involved IP addressing and ensuring that each router interface was assigned a unique, non-overlapping subnet. Initially, some overlap caused routing conflicts, but after researching subnetting best practices and reviewing Cisco addressing guidelines, I was able to correctly design and implement an effective IP scheme. This reinforced my understanding of subnet segmentation and the importance of proper address planning in network design.
+Outcome & Results: Successfully designed and configured a basic routed network connecting two LANs, achieving full end-to-end connectivity across subnets. Gained practical experience in router and switch configuration, static routing, and IP addressing, reinforcing foundational network administration skills in a simulated environment.
+
+Resume Updated: Yes
