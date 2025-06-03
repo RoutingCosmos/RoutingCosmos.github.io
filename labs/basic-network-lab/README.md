@@ -29,7 +29,7 @@ Demonstrates core skills in routing, switching, IP addressing, and network desig
 
 ## Files Included
 - [Project Notes](project-notes.txt) — Detailed notes and explanations.
-- [Router Configuration](configs/router.txt)    
+- [Router Configuration](configs/router.txt) - Router configuration with interface IPs and static routing commands. 
 - [Testing Commands](test-commands.png) — Screenshots of verification commands.
 
 ---
