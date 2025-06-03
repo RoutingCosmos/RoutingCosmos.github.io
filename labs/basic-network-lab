@@ -1,0 +1,21 @@
+# Basic Network Lab
+
+## Objective
+Design and implement a multi-subnet LAN/WAN topology using Cisco Packet Tracer, featuring static routing, subnetting, and inter-network communication across routers and switches. 
+Demonstrates core skills in routing, switching, IP addressing, and network design.
+
+## Topology
+![Topology](topology.png)
+
+## Steps
+1. Planned Network Topology
+2. Subnetting and IP Address Assignment
+3. Device Configuration
+4. Static Routing Setup
+5. Connectivity Testing
+6. Troubleshooting and Validation
+
+## Files
+- [Project Notes](project-notes.txt)
+- [Router Config](configs/router.txt)
+- [Switch Config](configs/switch.txt)
