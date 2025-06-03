@@ -22,6 +22,11 @@
       <li>Research and commentary on the development of space-based networks</li>
       <li>Occasional tutorials, ideas, and inspiration</li>
     </ul>
+    <ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
     <p>Check back regularly for new posts and feel free to explore the rest of the site for labs, configs, research, and notes.</p>
   </main>
