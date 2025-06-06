@@ -1,0 +1,19 @@
+Project Title: DHCP and DNS Configuration Lab — Cisco Packet Tracer
+
+Project Number: 2
+
+Role: Network Admin
+
+Date Started/Completed: June 2025
+
+Project Level: Beginner
+
+Project Description: Configured a simulated enterprise LAN in Cisco Packet Tracer with DHCP and DNS services. Set up a DHCP server to dynamically assign IP addresses, default gateway, and DNS to client PCs. Implemented a local DNS server with manual A records to enable hostname resolution within the network. Verified connectivity and DNS functionality using ping and nslookup. Troubleshot DHCP scope and DNS record issues to ensure accurate IP assignment and name resolution.
+
+Skills Developed: Through this project, I developed practical skills in configuring DHCP servers to assign dynamic IP addresses, default gateways, and DNS settings to network clients. I gained experience setting up and managing DNS zones and A records to enable reliable hostname resolution within a local network. Additionally, I honed my network troubleshooting abilities by diagnosing and resolving issues related to DHCP scope misconfigurations and DNS record inconsistencies using tools such as ping, ipconfig, and nslookup. The project also enhanced my proficiency with Cisco Packet Tracer for simulating real-world network environments, while deepening my understanding of core Layer 2 and Layer 3 networking concepts including subnetting, routing, and IP addressing.
+
+Challenges & Solutions: One of the main challenges I faced during the project was correctly configuring the DHCP pool. Initially, the starting IP address range overlapped with the network address, causing clients to receive invalid IP addresses, default gateways, and DNS settings such as 0.0.0.0. Through systematic trial and error and careful review of subnet boundaries, I adjusted the DHCP pool’s starting IP address to fall within the valid host range (e.g., starting at 192.168.10.20), which resolved the issue. This experience reinforced my understanding of IP subnetting and DHCP scope configuration best practices.
+
+Outcome & Results: The project successfully demonstrated the implementation of a functional DHCP and DNS infrastructure within a simulated enterprise LAN. Client PCs obtained accurate IP configurations dynamically, including IP addresses, gateways, and DNS server information. Hostname resolution was verified through DNS queries, enabling seamless communication between devices using domain names. All connectivity and resolution issues were effectively troubleshot and resolved, resulting in a stable and properly functioning network environment. This project strengthened practical skills in network configuration and troubleshooting, showcasing readiness for real-world network administration tasks.
+
+Resume Updated: Yes
