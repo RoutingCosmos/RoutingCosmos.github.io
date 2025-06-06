@@ -1,0 +1,21 @@
+Project Title: Dynamic Routing with OSPF: Multi-Router Network Simulation
+
+Project Number: 2
+
+Role: Network Engineer
+
+Date Started/Completed: June 2005
+
+Project Level: Beginner
+
+Tools & Technologies: macOS and Cisco Packet Tracer
+
+Project Description: Configured and implemented OSPFv2 dynamic routing across a three-router mesh network using Cisco Packet Tracer. Established full neighbor adjacencies and verified routing table convergence to enable efficient, redundant path selection. Conducted thorough connectivity testing and gained practical experience with OSPF concepts including DR/BDR elections, route cost metrics, and equal-cost multipath routing. Applied IP subnetting and network segmentation principles to optimize routing performance.
+
+Skills Developed: Through this project, I developed practical skills in configuring and troubleshooting the OSPFv2 dynamic routing protocol using Cisco IOS CLI. I gained hands-on experience with IP subnetting and network addressing, along with a solid understanding of core OSPF concepts such as neighbor adjacencies, Designated Router (DR) and Backup Designated Router (BDR) elections, and route cost metrics. Additionally, I learned to design and manage mesh network topologies to ensure redundancy and efficient routing through equal-cost multipath (ECMP). The project also enhanced my ability to validate network connectivity and routing functionality using diagnostic commands and ping tests.
+
+Challenges & Solutions: Initially, I found implementing OSPF to this depth challenging due to the complexity of routing concepts and command syntax. However, through hands-on practice, guided learning, and systematic troubleshooting, I successfully configured a full mesh OSPF network. Completing this project has significantly increased my confidence and prepared me to tackle more advanced OSPF implementations in future network design projects.
+
+Outcome & Results: The successful completion of this project resulted in a fully functional OSPF mesh network with dynamic route discovery and redundancy across all three routers. All routers established full neighbor adjacencies and exchanged routing information efficiently, ensuring optimal path selection through equal-cost multipath routing. Network connectivity was thoroughly validated with successful ping tests across all devices, demonstrating reliable communication and failover capabilities. This project not only reinforced fundamental OSPF principles but also provided practical experience in configuring and troubleshooting dynamic routing protocols in a simulated environment.
+
+Resume Updated: Yes
